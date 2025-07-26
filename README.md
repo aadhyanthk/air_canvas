@@ -104,11 +104,6 @@ Say any of the following to change modes or settings:
 - No virtual environments (`venv/`, `.venv/`) or temporary files should be committed to the repository—add them to your `.gitignore`.
 - This tool is intended for educational, prototyping, and demo purposes.
 
-## License
-
-This project is licensed under the MIT License.  
-Feel free to use, share, or modify it for personal and educational use.
-
 ## Acknowledgements
 
 - [MediaPipe by Google](https://mediapipe.dev/)
