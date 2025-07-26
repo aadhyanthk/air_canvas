@@ -18,7 +18,7 @@ Air Canvas is a Python application that lets you draw, annotate, and manipulate 
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/air-canvas.git
+   git clone https://github.com/aadhyanthk/air-canvas.git
    cd air-canvas
    ```
 
