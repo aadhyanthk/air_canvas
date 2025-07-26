@@ -13,9 +13,6 @@ Air Canvas is a Python application that lets you draw, annotate, and manipulate 
 - **Voice Recognition:** Issue drawing or tool-change commands simply by speaking.
 - **Live Camera Feed:** View yourself in a corner of the canvas for spatial reference.
 
-## Demo
-
-![Air Canvas in Action](demo_screenshot lines and shapes with hand gestures.*
 
 ## Installation
 
