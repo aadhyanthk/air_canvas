@@ -107,10 +107,4 @@ Say any of the following to change modes or settings:
 - [OpenCV](https://opencv.org/)
 - The Python open-source community
 
-**Enjoy drawing in mid-air! For questions or ideas, [open an issue](https://github.com/yourusername/air-canvas/issues).**
 
-*Tip: Replace `yourusername` with your actual GitHub username and add a real demo screenshot for best effect.*
-
-[1] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/62972974/68a7a85c-bd64-4cdd-a7b1-f36af88c506a/AR_Canvas.py
-[2] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/62972974/d30b7834-ab3e-4cca-a8ef-936cdc5b5402/main.py
-[3] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/62972974/763a14cf-3c89-43a2-bb86-7acdea6a5a7c/rotation.py
